@@ -1,0 +1,194 @@
+body{
+	clear: both;
+	font-family: arial,sans-serif;
+}
+
+/*header*/
+header{
+	color: #fff;
+	font-weight: bold;
+	font-size: 23px;
+	font-height: 30px;
+	background: #232f3e;
+	height: 100px;
+}
+
+	#logo{
+		margin: 5px 0 0 25px;
+		width: 100px
+	}
+
+	#try{
+		color: #4498ba;
+		font-size: 11px;
+		margin: -40px 0 0 -40px;
+		width: 100px	
+	}
+		#try:hover{
+			color: #fff
+		}
+		
+	.buscador{
+		margin: -40px 0 0 160px
+	}	
+
+		#all{
+			display: inline-block;
+			margin: 0 0 0 40px;
+			border-radius: 4px 0 0 4px;
+			background: #f3f3f3;
+			color: #979797;
+			border: none;
+			padding: 9px
+		}
+
+		#busqueda{
+			width: 645px;
+			height: 31px;
+			margin: 0 0 0 -8px;
+			border: none;
+		}
+
+		#big{
+			background: #febd69;
+			color: #000;
+			padding: 1px 10px 7px 10px; 
+			margin: 0 0 0 -7px;
+			border-radius: 0 5px 5px 0;
+		}
+
+		
+	
+		#coca{
+			float: right;
+			margin: -23px 260px 0 0
+		}
+
+		#cola{
+			float: right;
+			margin: -20px 40px 0 0;
+			font-size: 20px;
+			font-weight: 700;
+		}
+
+	#dross{
+		background: transparent;
+		border: none;
+		color: #fff;
+		font-size: 14px;
+		font-weight: 700;
+		margin: 35px 0 0 20px;
+	}
+
+	#dallas{
+		margin: -25px 0 0 180px; 
+	}
+		.pabs, a{
+			color: #ccc;
+		}
+		.pabs, a:hover{
+			color: #ccc;
+			text-decoration: underline;
+		}
+		#dallas, a{
+			font-size: 13px;
+			font-weight: 200;
+			padding: 5px;
+			text-decoration: none;
+		}
+
+	#zorman{
+		margin: -25px 120px 0 0;
+	}
+		.auronplay{
+			background: transparent;
+			border: none;
+			font-size: 15px;
+			color: #fff;
+			float: right;
+			margin: 0 10px 0 0;
+			height: 30px
+
+		}
+			.auronplay:hover{
+				border: 1px solid #ccc;
+			}		
+/*header*/
+/*incio del main*/
+	
+	#elrubiusomg{
+		width: 100%;
+		background: #ccc;
+		border: none;
+		padding: 15px 0;
+	}
+
+	#bulbasaur{
+		margin: 2px 0 0 300px; 
+	}
+	
+
+/*fin del main*/
+
+/*inicio del footer*/
+.psyduck, a{
+		color: #004B91;
+		text-decoration: none;
+	}
+		.psyduck, a:hover{
+			color: #c45500
+		}
+			#lunatico{
+				margin: 40px 0 20px 220px;
+				line-height: 23px 
+			}
+			#colagusano{
+				margin: -140px 0 20px 420px;
+				line-height: 23px
+			}
+			#canuto{
+				margin: -260px 0 20px 680px;
+				line-height: 24px
+			}
+			#cornamenta{
+				margin: -218px 0 20px 950px;
+				line-height: 24px
+			}
+
+	#holaPabs{
+		margin: 20px 0 0 600px;
+	}
+
+	#sulky{
+		margin: 20px 0 0 350px;
+	}
+		.tamanno{
+			font-size: 11px;
+		}
+
+	section{
+		margin: 50px 20px 10px 80px;
+		width: 80px;
+		float: left; 
+	}
+		span{
+			font-size: 10px;
+			color: #949494;
+		}
+		.cena{
+			font-size: 11px;
+			display: inline-block; 
+		}
+			
+	#cerati{
+		margin: 345px 0 0 400px 
+	}
+		.puente{
+			font-size: 11px
+		}
+		h6{
+			color: #949494;
+			font-size: 11px;
+			margin: -12px 0 0 300px;
+		}
+/*fin del footer*/
